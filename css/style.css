@@ -1,0 +1,1225 @@
+div#a1{
+    color: aliceblue;
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a1:hover{
+    background-color: aliceblue;
+    border-radius: 1em;
+    color: black;
+}
+div#a2{
+    color: antiquewhite;
+    width: 300px;
+    height: 300px;
+    background-color: antiquewhite;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a2:hover{
+    background-color:antiquewhite;
+    border-radius: 1em;
+    color:black;
+}
+div#a3{
+    color: aqua;
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a3:hover{
+    background-color:aqua;
+    border-radius: 1em;
+    color: black;
+}
+div#a4{
+    color: aquamarine;
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a4:hover{
+    background-color:aquamarine;
+    border-radius: 1em;
+    color: black;
+}
+div#a5{
+    color: azure;
+    width: 300px;
+    height: 300px;
+    background-color: azure;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a5:hover{
+    background-color:azure;
+    border-radius: 1em;
+    color: black;
+}
+div#a6{
+    color: beige;
+    width: 300px;
+    height: 300px;
+    background-color: beige;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a6:hover{
+    background-color:beige;
+    border-radius: 1em;
+    color: black;
+}
+div#a7{
+   color: bisque;
+    width: 300px;
+    height: 300px;
+    background-color: bisque;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a7:hover{
+    background-color:bisque;
+    border-radius: 1em;
+    color: black;
+}
+div#a8{
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color:black;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a8:hover{
+    background-color: white;
+    border-radius: 1em;
+    color: black;
+}
+div#a9{
+    color: blanchedalmond;
+    width: 300px;
+    height: 300px;
+    background-color: blanchedalmond;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a9:hover{
+    background-color: blanchedalmond;
+    border-radius: 1em;
+    color: black;
+}
+div#a10{
+    color: blue;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a10:hover{
+    background-color:blue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a11{
+    color: blueviolet;
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a11:hover{
+    background-color:blueviolet;
+    border-radius: 1em;
+    color: azure;
+}
+div#a12{
+    color: brown;
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a12:hover{
+    background-color:brown;
+    border-radius: 1em;
+    color: azure;
+}
+div#a13{
+    color: burlywood;
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a13:hover{
+    background-color:burlywood;
+    border-radius: 1em;
+    color: azure;
+}
+div#a14{
+    color:cadetblue;
+    width: 300px;
+    height: 300px;
+    background-color: cadetblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a14:hover{
+    background-color: cadetblue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a15{
+    color:chartreuse;
+    width: 300px;
+    height: 300px;
+    background-color: chartreuse;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a15:hover{
+    background-color:chartreuse;
+    border-radius: 1em;
+    color: azure;
+}
+div#a16{
+    color:chocolate;
+    width: 300px;
+    height: 300px;
+    background-color:chocolate;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a16:hover{
+    background-color:chocolate;
+    border-radius: 1em;
+    color: azure;
+}
+div#a17{
+    color:coral;
+    width: 300px;
+    height: 300px;
+    background-color:coral;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a17:hover{
+    background-color:coral;
+    border-radius: 1em;
+    color: black;
+}
+div#a18{
+    color:cornflowerblue;
+    width: 300px;
+    height: 300px;
+    background-color:cornflowerblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a18:hover{
+    background-color:cornflowerblue;
+    border-radius: 1em;
+    color: black;
+}
+div#a19{
+    color:cornsilk;
+    width: 300px;
+    height: 300px;
+    background-color:cornsilk;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a19:hover{
+    background-color:cornsilk;
+    border-radius: 1em;
+    color: black;
+}
+div#a20{
+    color:crimson;
+    width: 300px;
+    height: 300px;
+    background-color:crimson;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a20:hover{
+    background-color:crimson;
+    border-radius: 1em;
+    color: azure;
+}
+div#a21{
+    color:cyan;
+    width: 300px;
+    height: 300px;
+    background-color:cyan;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a21:hover{
+    background-color:cyan;
+    border-radius: 1em;
+    color: black;
+}
+div#a22{
+    color:darkblue;
+    width: 300px;
+    height: 300px;
+    background-color:darkblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a22:hover{
+    background-color:darkblue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a23{
+    color:darkcyan;
+    width: 300px;
+    height: 300px;
+    background-color:darkcyan;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a23:hover{
+    background-color:darkcyan;
+    border-radius: 1em;
+    color: black;
+}
+div#a24{
+    color:darkgoldenrod;
+    width: 300px;
+    height: 300px;
+    background-color:darkgoldenrod;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a24:hover{
+    background-color:darkgoldenrod;
+    border-radius: 1em;
+    color: azure;
+}
+div#a25{
+    color:darkgray;
+    width: 300px;
+    height: 300px;
+    background-color:darkgray;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a25:hover{
+    background-color:darkgray;
+    border-radius: 1em;
+    color:black;
+}
+div#a26{
+    color:darkgreen;
+    width: 300px;
+    height: 300px;
+    background-color:darkgreen;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a26:hover{
+    background-color:darkgreen;
+    border-radius: 1em;
+    color: azure;
+}
+div#a27{
+    color:darkgrey;
+    width: 300px;
+    height: 300px;
+    background-color:darkgrey;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a27:hover{
+    background-color:darkgrey;
+    border-radius: 1em;
+    color: black;
+}
+div#a28{
+    color:darkkhaki;
+    width: 300px;
+    height: 300px;
+    background-color:darkkhaki;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a28:hover{
+    background-color:darkkhaki;
+    border-radius: 1em;
+    color: black;
+}
+div#a29{
+    color:darkmagenta;
+    width: 300px;
+    height: 300px;
+    background-color:darkmagenta;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a29:hover{
+    background-color:darkmagenta;
+    border-radius: 1em;
+    color: azure;
+}
+div#a30{
+    color:darkolivegreen;
+    width: 300px;
+    height: 300px;
+    background-color:darkolivegreen;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a30:hover{
+    background-color:darkolivegreen;
+    border-radius: 1em;
+    color: azure;
+}
+div#a31{
+    color:darkorange;
+    width: 300px;
+    height: 300px;
+    background-color:darkorange;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a31:hover{
+    background-color:darkorange;
+    border-radius: 1em;
+    color: azure;
+}
+div#a32{
+    color:darkorchid;
+    width: 300px;
+    height: 300px;
+    background-color:darkorchid;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a32:hover{
+    background-color:darkorchid;
+    border-radius: 1em;
+    color: azure;
+}
+div#a33{
+    color:darkred;
+    width: 300px;
+    height: 300px;
+    background-color:darkred;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a33:hover{
+    background-color:darkred;
+    border-radius: 1em;
+    color: azure;
+}
+div#a34{
+    color:darksalmon;
+    width: 300px;
+    height: 300px;
+    background-color:darksalmon;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a34:hover{
+    background-color:darksalmon;
+    border-radius: 1em;
+    color: black;
+}
+div#a35{
+    color:darkseagreen;
+    width: 300px;
+    height: 300px;
+    background-color:darkseagreen;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a35:hover{
+    background-color:darkseagreen;
+    border-radius: 1em;
+    color: black;
+}
+div#a36{
+    color:darkslateblue;
+    width: 300px;
+    height: 300px;
+    background-color:darkslateblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a36:hover{
+    background-color:darkslateblue;
+    border-radius: 1em;
+    color: white;
+}
+div#a37{
+    color:darkslategray;
+    width: 300px;
+    height: 300px;
+    background-color:darkslategray;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a37:hover{
+    background-color:darkslategray;
+    border-radius: 1em;
+    color: azure;
+}
+div#a38{
+    color:darkturquoise;
+    width: 300px;
+    height: 300px;
+    background-color:darkturquoise;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a38:hover{
+    background-color:darkturquoise;
+    border-radius: 1em;
+    color: azure;
+}
+div#a39{
+    color:darkviolet;
+    width: 300px;
+    height: 300px;
+    background-color:darkviolet;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a39:hover{
+    background-color:darkviolet;
+    border-radius: 1em;
+    color: azure;
+}
+div#a40{
+    color:deeppink;
+    width: 300px;
+    height: 300px;
+    background-color:deeppink;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a40:hover{
+    background-color:deeppink;
+    border-radius: 1em;
+    color: azure;
+}
+div#a41{
+    color:deepskyblue;
+    width: 300px;
+    height: 300px;
+    background-color:deepskyblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a41:hover{
+    background-color:deepskyblue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a42{
+    color:dimgray;
+    width: 300px;
+    height: 300px;
+    background-color:dimgray;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a42:hover{
+    background-color:dimgray;
+    border-radius: 1em;
+    color: azure;
+}
+div#a43{
+    color:dodgerblue;
+    width: 300px;
+    height: 300px;
+    background-color:dodgerblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a43:hover{
+    background-color:dodgerblue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a44{
+    color:firebrick;
+    width: 300px;
+    height: 300px;
+    background-color:firebrick;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a44:hover{
+    background-color:firebrick;
+    border-radius: 1em;
+    color: azure;
+}
+div#a45{
+    color:floralwhite;
+    width: 300px;
+    height: 300px;
+    background-color:floralwhite;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a45:hover{
+    background-color:floralwhite;
+    border-radius: 1em;
+    color: rgb(31, 0, 80);
+}
+div#a46{
+    color:forestgreen;
+    width: 300px;
+    height: 300px;
+    background-color:forestgreen;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a46:hover{
+    background-color:forestgreen;
+    border-radius: 1em;
+    color: azure;
+}
+div#a47{
+    color:fuchsia;
+    width: 300px;
+    height: 300px;
+    background-color:fuchsia;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a47:hover{
+    background-color:fuchsia;
+    border-radius: 1em;
+    color: azure;
+}
+div#a48{
+    color:gainsboro;
+    width: 300px;
+    height: 300px;
+    background-color:gainsboro;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a48:hover{
+    background-color:gainsboro;
+    border-radius: 1em;
+    color: azure;
+}
+div#a49{
+    color:ghostwhite;
+    width: 300px;
+    height: 300px;
+    background-color:ghostwhite;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a49:hover{
+    background-color:ghostwhite;
+    border-radius: 1em;
+    color: rgb(0, 0, 0);
+}
+div#a50{
+    color:gold;
+    width: 300px;
+    height: 300px;
+    background-color:gold;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a50:hover{
+    background-color:gold;
+    border-radius: 1em;
+    color: azure;
+}
+div#a51{
+    color:goldenrod;
+    width: 300px;
+    height: 300px;
+    background-color:goldenrod;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a51:hover{
+    background-color:goldenrod;
+    border-radius: 1em;
+    color: azure;
+}
+div#a52{
+    color:gray;
+    width: 300px;
+    height: 300px;
+    background-color:gray;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a52:hover{
+    background-color:gray;
+    border-radius: 1em;
+    color: azure;
+}
+div#a53{
+    color:green;
+    width: 300px;
+    height: 300px;
+    background-color:green;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a53:hover{
+    background-color:green;
+    border-radius: 1em;
+    color: azure;
+}
+div#a54{
+    color:greenyellow;
+    width: 300px;
+    height: 300px;
+    background-color:greenyellow;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a54:hover{
+    background-color:greenyellow;
+    border-radius: 1em;
+    color: azure;
+}
+div#a55{
+    color:honeydew;
+    width: 300px;
+    height: 300px;
+    background-color:honeydew;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a55:hover{
+    background-color:honeydew;
+    border-radius: 1em;
+    color: blueviolet;
+}
+div#a56{
+    color:hotpink;
+    width: 300px;
+    height: 300px;
+    background-color:hotpink;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a56:hover{
+    background-color:hotpink;
+    border-radius: 1em;
+    color: azure;
+}
+div#a57{
+    color:indianred;
+    width: 300px;
+    height: 300px;
+    background-color:indianred;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a57:hover{
+    background-color:indianred;
+    border-radius: 1em;
+    color: azure;
+}
+div#a58{
+    color:indigo;
+    width: 300px;
+    height: 300px;
+    background-color:indigo;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a58:hover{
+    background-color:indigo;
+    border-radius: 1em;
+    color: azure;
+}
+div#a59{
+    color:ivory;
+    width: 300px;
+    height: 300px;
+    background-color:ivory;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a59:hover{
+    background-color:ivory;
+    border-radius: 1em;
+    color: blueviolet;
+}
+div#a60{
+    color:khaki;
+    width: 300px;
+    height: 300px;
+    background-color:khaki;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a60:hover{
+    background-color:khaki;
+    border-radius: 1em;
+    color: azure;
+}
+div#a61{
+    color:tomato;
+    width: 300px;
+    height: 300px;
+    background-color:tomato;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a61:hover{
+    background-color:tomato;
+    border-radius: 1em;
+    color: azure;
+}
+div#a62{
+    color:teal;
+    width: 300px;
+    height: 300px;
+    background-color:teal;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a62:hover{
+    background-color:teal;
+    border-radius: 1em;
+    color: azure;
+}
+div#a63{
+    color:pink;
+    width: 300px;
+    height: 300px;
+    background-color:pink;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a63:hover{
+    background-color:pink;
+    border-radius: 1em;
+    color: azure;
+}
+div#a64{
+    color:purple;
+    width: 300px;
+    height: 300px;
+    background-color:purple;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a64:hover{
+    background-color:purple;
+    border-radius: 1em;
+    color: azure;
+}
+div#a65{
+    color:peru;
+    width: 300px;
+    height: 300px;
+    background-color:peru;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a65:hover{
+    background-color:peru;
+    border-radius: 1em;
+    color: azure;
+}
+div#a66{
+    color:orangered;
+    width: 300px;
+    height: 300px;
+    background-color:orangered;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a66:hover{
+    background-color:orangered;
+    border-radius: 1em;
+    color: azure;
+}
+
+div#a67{
+    color:orange;
+    width: 300px;
+    height: 300px;
+    background-color:orange;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a67:hover{
+    background-color:orange;
+    border-radius: 1em;
+    color: azure;
+}
+div#a68{
+    color:navy;
+    width: 300px;
+    height: 300px;
+    background-color:navy;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a68:hover{
+    background-color:navy;
+    border-radius: 1em;
+    color: azure;
+}
+div#a69{
+    color:maroon;
+    width: 300px;
+    height: 300px;
+    background-color:maroon;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a69:hover{
+    background-color:maroon;
+    border-radius: 1em;
+    color: azure;
+}
+div#a70{
+    color:midnightblue;
+    width: 300px;
+    height: 300px;
+    background-color:midnightblue;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a70:hover{
+    background-color:midnightblue;
+    border-radius: 1em;
+    color: azure;
+}
+div#a71{
+    color:saddlebrown;
+    width: 300px;
+    height: 300px;
+    background-color:saddlebrown;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a71:hover{
+    background-color:saddlebrown;
+    border-radius: 1em;
+    color: azure;
+}
+div#a72{
+    color:red;
+    width: 300px;
+    height: 300px;
+    background-color:red;
+    text-align: center;
+    line-height: 300px;
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 0px;
+    display: inline-flex;
+}
+div#a72:hover{
+    background-color:red;
+    border-radius: 1em;
+    color: azure;
+}
